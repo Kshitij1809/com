@@ -27,6 +27,10 @@
         max-height: 15rem;
         min-height: 13rem;
     }
+
+     .foot-panel2 {
+        flex-wrap: wrap;
+    }
      .foot-panel2 .foot ul li p {
         font-size: 14px;
     }
