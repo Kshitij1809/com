@@ -36,6 +36,13 @@
     .panel-opt {
         font-size: 0.85rem;
     }
+
+    .foot-panel2 .foot ul li p {
+        font-size: 0.8rem;
+    }
+    .foot-panel2 .foot ul li a {
+        font-size: 0.7rem;
+    }
 }
 
 @media (max-width:767px) {
