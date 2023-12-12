@@ -27,6 +27,12 @@
         max-height: 15rem;
         min-height: 13rem;
     }
+     .foot-panel2 .foot ul li p {
+        font-size: 14px;
+    }
+    .foot-panel2 .foot ul li a {
+        font-size: 12px;
+    }
 }
 
 @media (max-width:800px) {
@@ -35,13 +41,6 @@
     .panel,
     .panel-opt {
         font-size: 0.85rem;
-    }
-
-    .foot-panel2 .foot ul li p {
-        font-size: 14px;
-    }
-    .foot-panel2 .foot ul li a {
-        font-size: 12px;
     }
 }
 
