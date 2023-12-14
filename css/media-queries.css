@@ -71,6 +71,10 @@
     .panel{
         height: 2rem;
     }
+
+    .panel-all {
+    font-size: 0.85rem;
+}
     
     .hero-section {
         max-height: 13rem;
