@@ -71,7 +71,7 @@
 
     .img-logo {
     height: 2.5rem;
-    width: 100%;
+    width: fit-content;
     }
 
     .nav-cart{
