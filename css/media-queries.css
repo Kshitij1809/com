@@ -64,6 +64,10 @@
 }
 
 @media (max-width:700px) {
+    .navbar {
+        height: 2.5rem;
+    }
+    
     .hero-section {
         max-height: 13rem;
         min-height: 11rem;
