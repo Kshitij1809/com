@@ -9,6 +9,19 @@
     cursor: pointer;
 }
 
+.border {
+    border: 2px solid transparent;
+    padding: 0.3rem;
+    margin: 0.3rem;
+}
+
+.border:hover {
+    border: 2px solid white;
+    padding: 0.3rem;
+    border-radius: 3px;
+}
+
+
 .navbar {
     height: 4rem;
     background-color: #0F1111;
@@ -29,18 +42,6 @@
     width: 100%;
 }
 
-.border {
-    border: 2px solid transparent;
-    padding: 0.3rem;
-    margin: 0.3rem;
-    ;
-}
-
-.border:hover {
-    border: 2px solid white;
-    padding: 0.3rem;
-    border-radius: 3px;
-}
 
 /** box2 **/
 
