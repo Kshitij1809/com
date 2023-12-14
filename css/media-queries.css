@@ -16,7 +16,7 @@
 
 @media (max-width:940px) {
     .navbar {
-        height: 4.5rem;
+        height: 4rem;
     }
 
     .nav-search {
@@ -48,9 +48,6 @@
 }
 
 @media (max-width:767px) {
-    .navbar {
-        height: 3rem;
-    }
     
     .navbar {
         justify-content: space-between;
