@@ -49,6 +49,10 @@
 
 @media (max-width:767px) {
     .navbar {
+        height: 3rem;
+    }
+    
+    .navbar {
         justify-content: space-between;
     }
 
