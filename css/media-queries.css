@@ -64,17 +64,31 @@
 }
 
 @media (max-width:700px) {
+    .nav-logo {
+    height: 2.8rem;
+    width: 5.6rem;
+    }
+
+    .img-logo {
+    height: 2.8rem;
+    width: 100%;
+    }
+
+    .nav-cart{
+    height:2.8rem;
+    }
+    
     .border {
     border: 1.5px solid transparent;
     padding: 0.2rem;
     margin: 0.2rem;
-}
+    }
 
-.border:hover {
+    .border:hover {
     border: 1.5px solid white;
     padding: 0.2rem;
     border-radius: 3px;
-}
+    }
     
     .navbar {
         height: 3.2rem;
